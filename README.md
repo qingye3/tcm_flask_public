@@ -1,4 +1,5 @@
 Traditional Chinese Medicine Disease and Herb Prediction (抓药砖家)
+The data is intentionally stripped. Please contact the author to obtain needed data.
 
 # Introduction
 Traditional Chinese Medicine (TCM) is widely practiced in China and nearby countries in Asia. TCM physicians observe symptoms in patients and prescribe herbal medicine according to the disease profile they identified. Because the diagnosis is highly empirical and personalized, knowledge retrieval of TCM is difficult without years of training.
